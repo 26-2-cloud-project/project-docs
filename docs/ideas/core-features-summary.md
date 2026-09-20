@@ -1,6 +1,6 @@
 > [!NOTE]
 > 
-> 본 문서는 [core-features.md](./core-features.md)의 내용을 bullet 형태로 간단히 정리한 문서입니다.
+> 본 문서는 [core-features-ai.md](./core-features-ai.md)의 내용을 bullet 형태로 간단히 정리한 문서입니다.
 > 
 > 개인적으로 생각해보았을 때 우선순위가 높은 순서대로 정리하였습니다. 참고 부탁드립니다.
 
